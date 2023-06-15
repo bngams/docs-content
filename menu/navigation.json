@@ -1735,7 +1735,7 @@
                     "slug": "vpc-private-beta"
                   },
                   {
-                    "label": "Adding a standalone Public Gateway to a regional Private Network",
+                    "label": "Adding a standalone Public Gateway to a Private Network",
                     "slug": "standalone-pgw-rpn"
                   }
                 ],
